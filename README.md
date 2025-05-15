@@ -16,7 +16,7 @@ Clone or download the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/wifi-troubleshooter.git
+https://github.com/praveenraja-5678/Wi-Fi-Troubleshooting-Tool.git
 cd wifi-troubleshooter
 No dependencies required.
 
