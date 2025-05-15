@@ -22,10 +22,6 @@ Clone or download the repository:
 
 bash
 
-Copy
-
-Edit
-
 https://github.com/praveenraja-5678/Wi-Fi-Troubleshooting-Tool.git
 
 cd Wi-Fi Troubleshooting
@@ -35,10 +31,6 @@ No dependencies required.
 🚀 How to Run
 
 bash
-
-Copy
-
-Edit
 
 python wifi_kit.py
 
@@ -77,12 +69,6 @@ Requires basic net-tools package (for ifconfig)
 iwconfig may not be available by default (use networksetup if needed)
 
 📸 Sample Output
-
-yaml
-
-Copy
-
-Edit
 
 === Wi-Fi Troubleshooting Tool ===
 
