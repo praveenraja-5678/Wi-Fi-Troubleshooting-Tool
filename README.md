@@ -17,14 +17,14 @@ bash
 Copy
 Edit
 https://github.com/praveenraja-5678/Wi-Fi-Troubleshooting-Tool.git
-cd wifi-troubleshooter
+cd Wi-Fi Troubleshooting
 No dependencies required.
 
 🚀 How to Run
 bash
 Copy
 Edit
-python wifi_diag.py
+python wifi_kit.py
 You must run the script from a terminal or command prompt with Python installed.
 
 🔍 Features
@@ -83,7 +83,7 @@ Internet down	Google ping fails	ISP issue, check modem
 
 📁 Project Files
 File	Purpose
-wifi_diag.py	Main script
+wifi_kit.py	Main script
 README.md	Project overview
 docs/	(Optional) Documentation folder
 sample.log	(Optional) Output sample
